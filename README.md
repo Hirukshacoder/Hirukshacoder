@@ -1,15 +1,15 @@
-[![MasterHead](https://pin.it/1Q4LllF)]
+[![MasterHead]()]
 
 <h1 align="center">Hi 👋, I'm Treveen Hiruksha Bastian</h1>
 <h3 align="center">I'm a application developer/ethical hacker</h3>
-<img align="right" alt="Coding" width="400" src="https://chrisdermody.com/content/images/2017/12/10_coding_dribbble.gif">
+<img align="right" alt="Coding" width="400" src="https://img.freepik.com/premium-vector/web-development-programming-languages-css-html-it-ui-programmer-cartoon-character-developing-website-coding-flat-illustration-banner_128772-1167.jpg?size=626&ext=jpg&ga=GA1.2.1748786013.1660739887">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hirukshacorder&label=Profile%20views&color=0e75b6&style=flat" alt="hirukshacorder" /> </p>
 
 <p align="left"> <a href="https://github.com/Hirukshacoder/" alt="hirukshacorder" /></a> </p>
 
 - 🔭 I’m currently working on [T-tools 😎](https://github.com/Hirukshacoder/T-Tools-advanced--cyber-security)
 
-- 🌱 I’m currently learning **a tcm ethical hacking course with heath adams**
+- 🌱 I’m currently learning **a tcm ethical hacking course with heath adams 🔆**
 
 - 👯 I’m looking to collaborate on [Metasploit 😍](https://github.com/rapid7/metasploit-framework)
 
