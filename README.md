@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Treveen Hiruksha Bastian</h1>
 <h3 align="center">I'm a application developer/ethical hacker</h3>
-<img align="right" alt="coding" width="400" src="https://dribbble.com/shots/4502924-Python-developer-animation">
+<img align="right" alt="coding" width="400" src="https://tse3.mm.bing.net/th?id=OIP.LEH5tUEQReWe8Iu-UEV3PgHaFj&pid=Api&P=0">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hirukshacorder&label=Profile%20views&color=0e75b6&style=flat" alt="hirukshacorder" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hirukshacorder" alt="hirukshacorder" /></a> </p>
