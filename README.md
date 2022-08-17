@@ -1,5 +1,3 @@
-[![MasterHead](https://www.canva.com/design/DAFJlDOR_5M/Yc4lA9ZANVirx1sG6nTPzQ/view?utm_content=DAFJlDOR_5M&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
-
 <h1 align="center">Hi 👋, I'm Treveen Hiruksha Bastian</h1>
 <h3 align="center">I'm a application developer/ethical hacker</h3>
 <img align="right" alt="Coding" width="400" src="https://img.freepik.com/premium-vector/web-development-programming-languages-css-html-it-ui-programmer-cartoon-character-developing-website-coding-flat-illustration-banner_128772-1167.jpg?size=626&ext=jpg&ga=GA1.2.1748786013.1660739887">
