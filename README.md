@@ -5,7 +5,7 @@
 <img align="right" alt="Coding" width="400" src="https://chrisdermody.com/content/images/2017/12/10_coding_dribbble.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hirukshacorder&label=Profile%20views&color=0e75b6&style=flat" alt="hirukshacorder" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hirukshacorder" alt="hirukshacorder" /></a> </p>
+<p align="left"> <a href="https://github.com/Hirukshacoder/" alt="hirukshacorder" /></a> </p>
 
 - 🔭 I’m currently working on [T-tools 😎](https://github.com/Hirukshacoder/T-Tools-advanced--cyber-security)
 
