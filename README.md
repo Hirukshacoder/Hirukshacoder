@@ -1,4 +1,4 @@
-[![MasterHead](https://media.giphy.com/media/3o72F7RrTPW6jymXew/giphy.gif)]
+[![MasterHead](https://pin.it/1Q4LllF)]
 
 <h1 align="center">Hi 👋, I'm Treveen Hiruksha Bastian</h1>
 <h3 align="center">I'm a application developer/ethical hacker</h3>
