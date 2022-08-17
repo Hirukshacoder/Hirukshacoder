@@ -1,4 +1,4 @@
-[![MasterHead](https://www.canva.com/design/DAFJlDOR_5M/Yc4lA9ZANVirx1sG6nTPzQ/view?utm_content=DAFJlDOR_5M&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)]
+[![MasterHead](https://www.canva.com/design/DAFJlDOR_5M/hvDoOnDRS34is_VXQ-oAkA/edit?utm_content=DAFJlDOR_5M&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)]
 
 <h1 align="center">Hi 👋, I'm Treveen Hiruksha Bastian</h1>
 <h3 align="center">I'm a application developer/ethical hacker</h3>
