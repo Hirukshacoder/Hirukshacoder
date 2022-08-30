@@ -19,7 +19,7 @@
 
 - 📫 How to reach me **hiruksha.bastian@gmail.com**
 
-- ⚡ Fun fact **I am still 12**
+- ⚡ Fun fact **Hacking and developing is my hobby**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
