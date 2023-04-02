@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [T-tools 😎](https://github.com/Hirukshacoder/T-Tools-advanced--cyber-security)
 
-- 🌱 I’m currently learning **a tcm ethical hacking course with heath adams 🔆**
+- 🌱 I’m currently learning **data science and machine learning 🔆**
 
 - 👯 I’m looking to collaborate on [Metasploit 😍](https://github.com/rapid7/metasploit-framework)
 
