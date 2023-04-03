@@ -1,5 +1,8 @@
 # 💫 About Me:
-* I'm currently working on the MyPythonRoadMap project 🤖<br> * I'm learning Machine Learning and Data Science 🏫 <br> * I'm looking forward to collaborate with Metasploit 😀 <br>* For the record, I use python for most of my projects along with Javascript, HTML, Django, Shell script
+* I'm currently working on the MyPythonRoadMap project 🤖<br> 
+* I'm learning Machine Learning and Data Science 🏫 <br>
+* I'm looking forward to collaborate with Metasploit 😀 <br>
+* For the record, I use python for most of my projects along with Javascript, HTML, Django, Shell script 🐍
 
 
 ## 🌐 Socials:
