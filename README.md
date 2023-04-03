@@ -1,9 +1,9 @@
 # 💫 About Me:
-* I'm currently working on the MyPythonRoadMap project 🤖<br> 
-* I'm learning Machine Learning and Data Science 🏫 <br>
-* I'm looking forward to collaborate with Metasploit 😀 <br>
-* For the record, I use python for most of my projects along with Javascript, HTML, Django, Shell script 🐍
-
+* 🤖 I'm currently working on the MyPythonRoadMap project <br> 
+* 🏫 I'm learning Machine Learning and Data Science <br>
+* 😀 I'm looking forward to collaborate with Metasploit <br>
+* 🐍 For the record, I use python for most of my projects along with Javascript, HTML, Django, Shell script <br>
+* 💥 Fun Fact: Most developers like <b>coffee</b> but, I prefer <i>tea</i>
 
 ## 🌐 Socials:
 [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/Trevobeast1) [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/39rtzVQn) [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/@Hirukshacoder) 
